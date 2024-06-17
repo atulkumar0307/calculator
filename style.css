@@ -47,6 +47,7 @@ form .display input{
     letter-spacing: 2px;
     cursor: text;
 }
+
 form input.equal{
     width: 45%;
 }
